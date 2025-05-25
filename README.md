@@ -45,7 +45,7 @@ Represents a complete tax report for a person.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Make sure Python 3.8+ is installed.
 2. Save the project files (`property-tax-calculator.py`, `property-tax-calculator_bonus.py`, `README.md`) in one directory.
