@@ -52,4 +52,5 @@ Represents a complete tax report for a person.
 3. Run the script:
 
 ```bash
-python main.py
+property-tax-calculator.py
+property-tax-calculator_bonus.py
